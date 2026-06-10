@@ -76,4 +76,4 @@ License: **CC BY 4.0**
 
 ## 全文レポート / Full Write-up
 
-分析の物語・解釈・限界は、note 記事で読めます：〔note リンク〕
+分析の物語・解釈・限界は、note 記事で読めます：〔note リンク：https://note.com/bright_eagle679/n/nf335a3e9378d?app_launch=false〕
